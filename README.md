@@ -19,3 +19,11 @@ A simple and interactive Area Calculator built with Python. This application all
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/area-calculator.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd area-calculator
+
+3. Run the Area Calculator application:
+   ```bash
+   python area_calculator.py
